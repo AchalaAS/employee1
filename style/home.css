@@ -1,0 +1,36 @@
+header {
+  background-color: crimson;
+  border: 2px solid crimson;
+  line-height: 50px;
+}
+header h1 {
+  color: white;
+  background-color: crimson;
+  text-align: center;
+}
+.container {
+  border: 5px solid crimson;
+}
+li {
+  list-style: none;
+  text-align: center;
+  background-color: cyan;
+  padding: 50px;
+  border: solid crimson;
+  margin: 5px;
+  line-height: 100px;
+  font-size: 30px;
+}
+
+a {
+  color: crimson;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+a:active {
+  color: blue;
+}
+

@@ -1,0 +1,11 @@
+
+footer {
+  background-color: crimson;
+  line-height: 50px;
+  text-align: center;
+  color: white;
+}
+footer i {
+  color: cyan;
+}
+
